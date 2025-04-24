@@ -3,7 +3,7 @@
 ## Objective
 Analyze retail performance data from the Superstore dataset to uncover insights on sales trends, profitability, and inventory dynamics using Python.
 
-## 🛠 Tools Used
+##  Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 - PowerPoint (for business presentation)
